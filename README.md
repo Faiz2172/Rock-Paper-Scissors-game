@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-game
-Rock,Paper,Scissors game
+
+For my rock-paper-scissors project, I've developed a straightforward yet captivating version of the traditional game, where players compete against the computer. The user interface is intentionally designed to be simple, enabling players to choose rock, paper, or scissors by clicking on a single option. The game then randomly selects the computer's move and immediately shows the result, whether it's a win, loss, or draw. The score is constantly updated, and each result is marked with a unique message and background color change, enhancing the game's visual appeal and interactivity. This project highlights the enduring and enjoyable nature of rock-paper-scissors, presented in a contemporary web development style.
